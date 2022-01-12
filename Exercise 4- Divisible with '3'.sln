@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise 4- Divisible with '3'", "Exercise 4- Divisible with '3'.csproj", "{E8E630D7-4314-4BCD-AF6A-33F1176AE607}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8E630D7-4314-4BCD-AF6A-33F1176AE607}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8E630D7-4314-4BCD-AF6A-33F1176AE607}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8E630D7-4314-4BCD-AF6A-33F1176AE607}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8E630D7-4314-4BCD-AF6A-33F1176AE607}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26C725C4-F13F-4A4E-97F0-4BD2AF9D72B5}
+	EndGlobalSection
+EndGlobal
